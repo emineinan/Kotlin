@@ -12,7 +12,7 @@ fun main() {
   nameSet.add("Ali")
   nameSet.add("Demir")
   
-   nameSet.forEach{
+  nameSet.forEach{
       println(it)   
   }
 }
